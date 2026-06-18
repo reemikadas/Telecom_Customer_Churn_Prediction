@@ -262,14 +262,13 @@ customer-churn-prediction/
 
 ---
 
-## Author
+## 👩‍💻 Author
 
 **Reemika Subrata Das**
 
-- GitHub: [@reemikadas](https://github.com/reemikadas)
-- LinkedIn: [linkedin.com/in/reemikadas](https://www.linkedin.com/in/reemikadas)
-- Email: das.reemika@gmail.com
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-reemikadas-blue?logo=linkedin&style=flat)](https://linkedin.com/in/reemikadas)
+[![GitHub](https://img.shields.io/badge/GitHub-reemikadas-black?logo=github&style=flat)](https://github.com/reemikadas)
+[![Email](https://img.shields.io/badge/Email-das.reemika%40gmail.com-red?logo=gmail&style=flat)](mailto:das.reemika@gmail.com)
 ---
 
 *This project was completed as part of a machine learning portfolio to demonstrate end-to-end ML workflow design, model selection, and business-oriented data science.*
